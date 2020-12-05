@@ -5,16 +5,18 @@ The schedule is listed below.
 
 |  | Date | Topic | Main Tools |
 | :--: | :--: | :--: | :--: |
-| Week 1 | Nov 15 | Basic Configuration | VS Code, Linux (WSL), git |
-| Week 2 | Nov 22 | Markup Languages & Scientific Literature | XML, Markdown, Zotero |
-| Week 3 | Nov 29 | C/C++ Toolchain | gcc, Makefile/CMake, gdb, time, perf |
-| Week 4 | Dec 6 | LaTeX Configuration & Usage | Overleaf/TexLive, LaTeX, BibTeX |
-| Week 5 | Dec 13 | Python Basics | Build-in objects and operations |
-| Week 6 | Mar 22 | Scientific Computing | pip, NumPy, Mathematica |
-| Week 7 | Mar 29 | Machine Learning | pandas, sklearn |
-| Week 8 | Apr 5 | Deep Learning | PyTorch |
-| Week 9 | Apr 12 | Visualization | Matplotlib, Draw.io, TikZ(-cd) |
-| Week 10 | Apr 25 | Parallel Computing | OpenMP, Cilk, AVX, MPI |
+| Week 1 | xxx | Basic Configuration | VS Code, Linux (WSL), git, tmux |
+| Week 2 | xxx | Markup Languages & Scientific Literature | XML, Markdown, Zotero |
+| Week 3 | xxx | C/C++ Toolchain | gcc, Makefile/CMake, gdb, time, perf |
+| Week 4 | xxx | LaTeX Configuration & Usage | Overleaf/TexLive, LaTeX, BibTeX |
+| Week 5 | xxx | Python Basics | Build-in objects and operations |
+| Week 6 | xxx | Scientific Computing | pip, NumPy, Mathematica |
+| Week 7 | xxx | Machine Learning | pandas, sklearn |
+| Week 8 | xxx | Deep Learning | PyTorch |
+| Week 9 | xxx | Visualization | Matplotlib, Draw.io, TikZ(-cd) |
+| Week 10 | xxx | Parallel Computing | OpenMP, Cilk, AVX, MPI |
+| Week 11 | xxx | Docker | Basic operation |
+| Week 12 | xxx | meta-programming | C++, python |  
 
 ## Acknowledgements
 * Week 1, 4 is partly based on *[Tools Seminar](https://github.com/pppppass/ToolsSeminar)* in applied mathematics held in PKU
