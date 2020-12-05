@@ -13,7 +13,7 @@ The schedule is listed below.
 | Week 6 | xxx | Scientific Computing | pip, NumPy, Mathematica |
 | Week 7 | xxx | Machine Learning | pandas, sklearn |
 | Week 8 | xxx | Deep Learning | PyTorch |
-| Week 9 | xxx | Visualization | Matplotlib, Draw.io, TikZ(-cd) |
+| Week 9 | xxx | Visualization | Matplotlib, Draw.io, TikZ(-cd), Graphviz |
 | Week 10 | xxx | Parallel Computing | OpenMP, Cilk, AVX, MPI |
 | Week 11 | xxx | Docker | Basic operation |
 | Week 12 | xxx | meta-programming | C++, python |  
